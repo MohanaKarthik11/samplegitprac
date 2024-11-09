@@ -1,0 +1,1 @@
+TestNg is a framework allows users to take full control over the test cases and test execution.
